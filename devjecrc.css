@@ -3,7 +3,7 @@ p {
 	padding: 200px;
 	margin: auto;
 	font-family: 'Handlee', cursive;
-	font-size: 20px;
+	font-size: 40px;
 	text-align: center;
 
 }
@@ -17,4 +17,5 @@ a:hover {
 }
 h1 {
 	font-family: 'Indie Flower', cursive;
+	font-size: 60px;
 }
